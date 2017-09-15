@@ -1,1 +1,3 @@
-# lab1-processlist-WyomingWolf
+James Mock
+lab1-processlist
+TA, cplusplus.com
